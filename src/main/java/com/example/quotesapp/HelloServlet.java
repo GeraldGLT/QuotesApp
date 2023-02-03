@@ -91,7 +91,7 @@ public class HelloServlet extends HttpServlet {
         out.println("</body></html>");
         out.println ("<footer class=\"footer mt-auto py-3 bg-light\">\n" +
                 "    <div class=\"container\">\n" +
-                "        <span class=\"text-muted\">DevOps Group Assignment Part 1 | 2022 | All Rights Reserved</span>\n" +
+                "        <span class=\"text-muted\">DevOps Group Assignment Part 2 | 2023 | All Rights Reserved</span>\n" +
                 "    </div>\n" +
                 "</footer>");
 

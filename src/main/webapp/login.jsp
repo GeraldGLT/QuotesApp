@@ -54,6 +54,7 @@
 									class="form-submit" value="Log in" />
 							</div>
 						</form>
+						<a href="index.jsp" class="signup-cancel">Back to home page</a>
 					</div>
 				</div>
 			</div>

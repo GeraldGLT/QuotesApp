@@ -16,12 +16,12 @@
 <body>
 
 	<div class="main">
-
 		<!-- Sign up form -->
 		<section class="signup">
 			<div class="container">
 				<div class="signup-content">
 					<div class="signup-form">
+					<li><a href="index.jsp" class="nav-link pex-2 text-black">Back to home page </a></li>
 						<h2 class="form-title">Sign up</h2>
 					
 						<form method="post" action="" class="register-form"
@@ -48,7 +48,7 @@
 								<input type="checkbox" name="agree-term" id="agree-term"
 									class="agree-term" /> <label for="agree-term"
 									class="label-agree-term"><span><span></span></span>I
-									agree all statements in <a href="#" class="term-service">Terms
+									agree all statements in <a href="TAC.jsp" class="term-service">Terms
 										of service</a></label>
 							</div>
 							<div class="form-group form-button">
